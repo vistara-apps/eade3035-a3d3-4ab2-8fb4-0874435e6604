@@ -1,0 +1,14 @@
+{
+  "name": "FriendBet",
+  "description": "FriendBet is a Base Mini App built with Zara.",
+  "image": "https://dummyimage.com/1200x628/0a0b0d/ffffff.png&text=OG",
+  "external_url": "https://eade3035-a3d3-4ab2-8fb4-0874435e6604.vercel.app",
+  "properties": {
+    "app": {
+      "name": "FriendBet",
+      "description": "FriendBet is a Base Mini App built with Zara.",
+      "url": "https://eade3035-a3d3-4ab2-8fb4-0874435e6604.vercel.app",
+      "icon": "https://0co.to/images/zara-2.png"
+    }
+  }
+}
